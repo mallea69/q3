@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(122, 94, 66)
+}
+h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: italic;
+    text-transform: uppercase;
+}
+h1 {
+    color: rgb(104, 64, 12);
+    font-size: 50px;
+}
+
+    .block1 {
+        color: white;
+        text-align: right;
+        width: 900px;
+        border: 5px dotted rgb(168, 100, 23);
+        border-radius: 30px
+        
+
+    }
+    .block2 {
+        text-align: center;
+        background-color: rgb(139, 108, 79);
+        color: rgb(214, 151, 91);
+        width: 800px;
+        border: 5px dotted rgb(116, 74, 47);
+        border-radius: 20px 5px 10px 40px;
+        border-style: double;
+        text-decoration: line-through;
+    }
+    .block3 {
+        color: white;
+        text-align: justify;
+        width: 900px;
+    }
+.block4 {
+    width: 700%;
+    height: 1000px;
+    border: 1px solid black;
+background-image: url(/img/scale_1200.jpg);
+background-repeat: no-repeat
+    
+}
+
+li {
+    list-style-image: url(/img/li.gif);
+}
